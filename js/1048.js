@@ -22,6 +22,6 @@ else if (e <= 800){
 }
 
 
-console.log("Novo salario: "+(e+r)+"");
-console.log("Reajuste ganho: "+r+"");
-console.log("Em percentual: "+p+" %");
+console.log("Novo salario: "+((e+r).toFixed(2))+"");
+console.log("Reajuste ganho: "+(r).toFixed(2)+"");
+console.log("Em percentual: "+(p).toFixed(2)+" %");
