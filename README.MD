@@ -1,6 +1,6 @@
 # Bem-vindo ao Repositório BeeCrowd!
 
-![BeeCrowd Logo](https://drive.google.com/file/d/1PDHOG6RjcFZyLmlLelcGH9k3Rgpdn0V9/view?usp=sharing)
+![BeeCrowd Logo](https://docs.google.com/document/d/1ojf9hRf1f5PdM4GDrrSt96Ze0uBE4P7j1BaMi6eJuZY/edit?pli=1)
 
 Este repositório é dedicado a soluções para problemas da plataforma BeeCrowd, que oferece desafios de programação para aprimorar suas habilidades em algoritmos e lógica. Aqui você encontrará diversos códigos em diferentes linguagens de programação para os problemas da plataforma.
 
