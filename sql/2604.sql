@@ -1,0 +1,1 @@
+select "id", "name" from public.products where price<10 or price>100;

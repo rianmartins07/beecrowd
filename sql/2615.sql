@@ -1,0 +1,1 @@
+select distinct(c."city") from public.customers c;

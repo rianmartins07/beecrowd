@@ -1,0 +1,1 @@
+select "name", street from public.customers where city='Porto Alegre'
