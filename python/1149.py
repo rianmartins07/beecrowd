@@ -1,4 +1,6 @@
-a, n = list(map(int, input().split(' ')))
+numbers = list(map(lambda x: int(x), input().split(' ')))
+a = numbers[0]
+n = next((x for x in numbers[1:] if x > 0), None)
 
 if n<=0:
     while True:
